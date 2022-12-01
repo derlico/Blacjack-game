@@ -1,0 +1,6 @@
+prompt.md
+cmake-build-debug
+*.out
+*.exe
+.idea
+*.pdf
